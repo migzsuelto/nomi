@@ -9,6 +9,8 @@ Our first focus is making it easy to bring transactions together. Over time,
 Nomi can grow with you beyond consolidation—without losing the calm,
 approachable experience at its core.
 
+<img src="image.png" width="500">
+
 ## What Nomi is for
 
 - Turn exported bank or financial spreadsheets into one consistent file.
